@@ -3,12 +3,30 @@
     <title>martinchengcom</title>
     <link href="http://www.martincheng.com/feed.xml" rel="self" />
     <link href="http://www.martincheng.com" />
-    <updated>2017-11-01T23:21:37+08:00</updated>
+    <updated>2017-11-01T23:32:07+08:00</updated>
     <author>
         <name>Martin Cheng</name>
     </author>
     <id>http://www.martincheng.com</id>
 
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Martin Cheng</name>
+        </author>
+        <link href="http://www.martincheng.com/about.html"/>
+        <id>http://www.martincheng.com/about.html</id>
+
+        <updated>2017-11-01T23:30:02+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://www.martincheng.com/media/posts/2/18293552513_e473df2764_o.png" alt="" />
+                <p>Hi,</p>
+<p>This is Martin Cheng Github page!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Welcome!</title>
         <author>
@@ -17,8 +35,13 @@
         <link href="http://www.martincheng.com/welcome.html"/>
         <id>http://www.martincheng.com/welcome.html</id>
 
-        <updated>2017-11-01T23:21:27+08:00</updated>
+        <updated>2017-11-01T23:24:36+08:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://www.martincheng.com/media/posts/1/p1.jpg" alt="" />
+                Thanks Publii
+            ]]>
+        </content>
     </entry>
 </feed>
