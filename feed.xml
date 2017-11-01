@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>martinchengcom</title>
+    <link href="http://www.martincheng.com/feed.xml" rel="self" />
+    <link href="http://www.martincheng.com" />
+    <updated>2017-11-01T23:08:46+08:00</updated>
+    <author>
+        <name>Martin Cheng</name>
+    </author>
+    <id>http://www.martincheng.com</id>
+
+    <entry>
+        <title>Welcome!</title>
+        <author>
+            <name>Martin Cheng</name>
+        </author>
+        <link href="http://www.martincheng.com/welcome.html"/>
+        <id>http://www.martincheng.com/welcome.html</id>
+
+        <updated>2017-11-01T22:30:04+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
