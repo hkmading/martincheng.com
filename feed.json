@@ -13,13 +13,14 @@
             "id": "http://www.martincheng.com/welcome.html",
             "url": "http://www.martincheng.com/welcome.html",
             "title": "Welcome!",
+            "image": "http://www.martincheng.com/media/posts/1/p1.jpg",
             "author": {
                 "name": "Martin Cheng"
             },
             "tags": [
             ],
             "date_published": "2017-11-01T22:30:04+08:00",
-            "date_modified": "2017-11-01T22:30:04+08:00"
+            "date_modified": "2017-11-01T23:21:27+08:00"
         }
     ]
 }
