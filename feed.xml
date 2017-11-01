@@ -3,7 +3,7 @@
     <title>martinchengcom</title>
     <link href="http://www.martincheng.com/feed.xml" rel="self" />
     <link href="http://www.martincheng.com" />
-    <updated>2017-11-02T00:28:00+08:00</updated>
+    <updated>2017-11-02T00:34:20+08:00</updated>
     <author>
         <name>Martin Cheng</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Martin Cheng</name>
         </author>
-        <link href="http://www.martincheng.com/about.html"/>
-        <id>http://www.martincheng.com/about.html</id>
+        <link href="http://www.martincheng.com/about/"/>
+        <id>http://www.martincheng.com/about/</id>
 
         <updated>2017-11-01T23:30:02+08:00</updated>
             <summary></summary>
@@ -32,8 +32,8 @@
         <author>
             <name>Martin Cheng</name>
         </author>
-        <link href="http://www.martincheng.com/welcome.html"/>
-        <id>http://www.martincheng.com/welcome.html</id>
+        <link href="http://www.martincheng.com/welcome/"/>
+        <id>http://www.martincheng.com/welcome/</id>
 
         <updated>2017-11-01T23:24:36+08:00</updated>
             <summary></summary>

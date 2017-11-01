@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "http://www.martincheng.com/about.html",
-            "url": "http://www.martincheng.com/about.html",
+            "id": "http://www.martincheng.com/about/",
+            "url": "http://www.martincheng.com/about/",
             "title": "About",
             "content_html": "<p>Hi,</p>\n<p>This is Martin Cheng Github page!</p>",
             "image": "http://www.martincheng.com/media/posts/2/18293552513_e473df2764_o.png",
@@ -25,8 +25,8 @@
             "date_modified": "2017-11-01T23:30:02+08:00"
         },
         {
-            "id": "http://www.martincheng.com/welcome.html",
-            "url": "http://www.martincheng.com/welcome.html",
+            "id": "http://www.martincheng.com/welcome/",
+            "url": "http://www.martincheng.com/welcome/",
             "title": "Welcome!",
             "content_html": "Thanks Publii",
             "image": "http://www.martincheng.com/media/posts/1/p1.jpg",
