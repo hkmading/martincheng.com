@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>martinchengcom</title>
-    <link href="http://www.martincheng.com/feed.xml" rel="self" />
-    <link href="http://www.martincheng.com" />
-    <updated>2018-05-14T20:54:05+08:00</updated>
+    <link href="https://www.martincheng.com/feed.xml" rel="self" />
+    <link href="https://www.martincheng.com" />
+    <updated>2018-05-14T21:12:18+08:00</updated>
     <author>
         <name>Martin Cheng</name>
     </author>
-    <id>http://www.martincheng.com</id>
+    <id>https://www.martincheng.com</id>
 
     <entry>
         <title>About</title>
         <author>
             <name>Martin Cheng</name>
         </author>
-        <link href="http://www.martincheng.com/about/"/>
-        <id>http://www.martincheng.com/about/</id>
+        <link href="https://www.martincheng.com/about/"/>
+        <id>https://www.martincheng.com/about/</id>
 
         <updated>2017-11-01T23:30:02+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.martincheng.com/media/posts/2/18293552513_e473df2764_o.png" alt="" />
+                    <img src="https://www.martincheng.com/media/posts/2/18293552513_e473df2764_o.png" alt="FinTech" />
                 <p>Hi,</p>
 <p>This is Martin Cheng Github page!</p>
             ]]>
@@ -32,14 +32,14 @@
         <author>
             <name>Martin Cheng</name>
         </author>
-        <link href="http://www.martincheng.com/welcome/"/>
-        <id>http://www.martincheng.com/welcome/</id>
+        <link href="https://www.martincheng.com/welcome/"/>
+        <id>https://www.martincheng.com/welcome/</id>
 
         <updated>2017-11-01T23:24:36+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.martincheng.com/media/posts/1/p1.jpg" alt="" />
+                    <img src="https://www.martincheng.com/media/posts/1/p1.jpg" alt="hk" />
                 Thanks Publii
             ]]>
         </content>

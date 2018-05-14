@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "martinchengcom",
     "description": "",
-    "home_page_url": "http://www.martincheng.com",
-    "feed_url": "http://www.martincheng.com/feed.json",
+    "home_page_url": "https://www.martincheng.com",
+    "feed_url": "https://www.martincheng.com/feed.json",
     "user_comment": "",
-    "icon": "http://www.martincheng.com/media/website/martin.png",
+    "icon": "https://www.martincheng.com/media/website/martin.png",
     "author": {
         "name": "Martin Cheng"
     },
     "items": [
         {
-            "id": "http://www.martincheng.com/about/",
-            "url": "http://www.martincheng.com/about/",
+            "id": "https://www.martincheng.com/about/",
+            "url": "https://www.martincheng.com/about/",
             "title": "About",
             "content_html": "<p>Hi,</p>\n<p>This is Martin Cheng Github page!</p>",
-            "image": "http://www.martincheng.com/media/posts/2/18293552513_e473df2764_o.png",
+            "image": "https://www.martincheng.com/media/posts/2/18293552513_e473df2764_o.png",
             "author": {
                 "name": "Martin Cheng"
             },
@@ -25,11 +25,11 @@
             "date_modified": "2017-11-01T23:30:02+08:00"
         },
         {
-            "id": "http://www.martincheng.com/welcome/",
-            "url": "http://www.martincheng.com/welcome/",
+            "id": "https://www.martincheng.com/welcome/",
+            "url": "https://www.martincheng.com/welcome/",
             "title": "Welcome!",
             "content_html": "Thanks Publii",
-            "image": "http://www.martincheng.com/media/posts/1/p1.jpg",
+            "image": "https://www.martincheng.com/media/posts/1/p1.jpg",
             "author": {
                 "name": "Martin Cheng"
             },
